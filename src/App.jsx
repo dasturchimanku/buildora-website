@@ -242,7 +242,7 @@ const App = () => {
                                     />
                                 </div>
                                 <span className="font-mono text-lg">
-                                    +31 6 12345678
+                                    +31 6 34886358
                                 </span>
                             </a>
                         </div>
@@ -255,7 +255,7 @@ const App = () => {
                         </h4>
                         <div className="flex gap-4">
                             <a
-                                href="https://wa.me/31612345678"
+                                href="https://wa.me/31634886358"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="w-14 h-14 rounded-2xl bg-[#25D366]/10 border border-[#25D366]/30 flex items-center justify-center text-[#25D366] hover:bg-[#25D366] hover:text-white transition-all duration-500 shadow-[0_0_15px_rgba(37,211,102,0.2)]"
@@ -263,7 +263,7 @@ const App = () => {
                                 <MessageCircle size={28} />
                             </a>
                             <a
-                                href="https://instagram.com/your_profile"
+                                href="https://instagram.com/buildora.nl"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="w-14 h-14 rounded-2xl bg-[#E1306C]/10 border border-[#E1306C]/30 flex items-center justify-center text-[#E1306C] hover:bg-[#E1306C] hover:text-white transition-all duration-500 shadow-[0_0_15px_rgba(225,48,108,0.2)]"
