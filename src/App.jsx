@@ -232,7 +232,7 @@ const App = () => {
                                 </span>
                             </a>
                             <a
-                                href="tel:+31612345678"
+                                href="tel:+31634886358"
                                 className="flex items-center gap-4 text-white hover:text-cyan-400 transition-all group"
                             >
                                 <div className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center group-hover:bg-cyan-500/20">
